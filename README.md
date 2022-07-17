@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🏫 I'm a bachelor of engineering of NEU, majored in CS(2014-2018).
 - 🌱 After graduation, I engaged in the system development of capital credit-granting, social-network recommendation and voice-activated assistant etc.
 - 🔭 I’m currently working on XIAOMI, Beijing as a software engineer(2020-so far), engaging in voice algorithm evaluation.
-- 💬 Contact me by [email](935017625@qq.com).
+- 💬 Contact me by [email](mailto:935017625@qq.com).
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kanson1996&show_icons=true&count_private=true)
 
