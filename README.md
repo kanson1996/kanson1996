@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏫 I'm a bachelor of engineering of NEU, majored in CS(2014-2018).
-- 🌱 After graduation, I engaged in the system development of capital credit-granting, social-network recommendation and voice-activated assistant etc.
-- 🔭 I’m currently working on XIAOMI, Beijing as a software engineer(2020-so far), engaging in voice algorithm evaluation.
+- 🏫 I'm a bachelor of engineering of NEU, majored in CS(2014-2018). After graduation, I engaged in the system development of capital credit-granting, social-network recommendation and voice-activated assistant etc.
+- 🌱 At the Xiaomi AI Team (2020-2023), I worked on backend development for the XiaoAI assistant. My responsibilities were focused on the R&D of systems including the speech evaluation system and the open platform.
+- 🔭 I'm currently a Software Engineer at Intoken Tech Ltd. in the AI safety industry(2023.12-so far), focusing on the evaluation of large language models and full-stack development. I also maintain a strong interest in Site Reliability Engineering (SRE).
+- 😄 I maintain a strong focus on cutting-edge developments within the AI field, including AI-Native Applications, AI Agents, and multimodal fusion models.
 - 💬 Contact me by [email](mailto:935017625@qq.com).
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kanson1996&show_icons=true&count_private=true)
