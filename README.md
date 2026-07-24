@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 😄 I maintain a strong focus on cutting-edge developments within the AI field, including AI-Native Applications, AI Agents, and multimodal fusion models.
 - 💬 Contact me by [email](mailto:935017625@qq.com).
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kanson1996&show_icons=true&count_private=true)
+![Github Stats](https://github-readme-stats-five-nu-92.vercel.app/api?username=kanson1996&show_icons=true&count_private=true)
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=kanson1996&layout=compact&show_icons=true)
+![Github Stats](https://github-readme-stats-five-nu-92.vercel.app/api/top-langs?username=kanson1996&layout=compact&show_icons=true)
